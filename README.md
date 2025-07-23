@@ -55,5 +55,5 @@ The model was evaluated on validation data using the following metrics:
 
 ## Contact
 If you have any questions, feedback, or collaboration ideas, feel free to reach out:
-📧 Email: amnabatul2@gmail.com 
-🌐 GitHub: [AmnaBatul](https://github.com/AmnaBatul)
+* 📧 Email: amnabatul2@gmail.com 
+* 🌐 GitHub: [AmnaBatul](https://github.com/AmnaBatul)
